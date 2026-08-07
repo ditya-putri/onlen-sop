@@ -32,4 +32,14 @@ const daftarProduk = [
   gap: 16px;
   flex-wrap: wrap;
 }
+button { 
+  margin-top: 8px; 
+  padding: 6px 12px; 
+  border: none; 
+  border-radius: 6px; 
+  background: #2E75B6; 
+  color: white; 
+  cursor: pointer; 
+} 
+button:hover { background: #1F4E79; } 
 </style>
